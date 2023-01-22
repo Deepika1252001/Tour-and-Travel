@@ -14,6 +14,7 @@ window.onscroll = () =>{
     navbar.classList.remove('active');
     loginForm.classList.remove('active');
 }
+//Deepika
 
 menu.addEventListener('click', () =>{
     menu.classList.toggle('fa-times');
